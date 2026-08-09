@@ -1,14 +1,11 @@
 @tailwind base;
 @tailwind components;
-@tailwind utilities; 
+@tailwind utilities;
 
 html,
 body {
-padding: 0;
-margin: 0;
-background-color: #000000 !important;
-color: #ffffff;
-font-family: -apple-system, BlinkMacSystemFont, Seqoe UI, Roboto, Helvetica, Arial, sans-serif;
-} 
-
-/* Remove or delete any (.gradient-circle) styling classes present at the bottom of this file */
+  padding: 0;
+  margin: 0;
+  background-color: #000000 !important;
+  color: #ffffff;
+}
