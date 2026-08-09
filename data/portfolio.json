@@ -1,7 +1,8 @@
 {
 "name": "Asmitha A",
-"headerTagline": "Software Developer",
+"headerTagline": "Java Backend Developer",
 "headerTaglineTwo": "Building robust web applications and backend systems with Java & Spring Boot.",
+"showCursor": true,
 "socials": [
 {
 "id": "1",
