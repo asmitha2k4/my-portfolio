@@ -1,134 +1,91 @@
 {
-  "name": "Asmitha",
-  "headerTaglineOne": "Hello 👋",
-  "headerTaglineTwo": "I'm Asmitha A - MCA student",
-  "headerTaglineThree": "Java Full Stack Developer",
-  "headerTaglineFour": " passionate about building useful software.",
-  "showCursor": true,
-  "showBlog": false,
-  "darkMode": true,
-  "showResume": true,
-
-  "socials": [
-    {
-      "id": "1",
-      "title": "Github",
-      "link": "https://github.com/asmitha2k4"
-    },
-    {
-      "id": "2",
-      "title": "LinkedIn",
-      "link": "https://linkedin.com/in/asmitha-2k4"
-    },
-    {
-      "id": "3",
-      "title": "Email",
-      "link": "mailto:asmithaarul21@gmail.com"
-    }
-  ],
-
-  "projects": [
-    {
-      "id": "1",
-      "title": "Online Cab Booking System",
-      "description": "Java, MySQL, HTML, CSS, JavaScript",
-      "imageSrc": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=800&q=80",
-      "url": "#"
-    },
-    {
-      "id": "2",
-      "title": "PC Building E-Commerce Website",
-      "description": "PHP, MySQL, HTML, CSS, JavaScript",
-      "imageSrc": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=800&q=80",
-      "url": "#"
-    },
-    {
-      "id": "3",
-      "title": "Placement Alert & Eligibility Verification System",
-      "description": "Java, MySQL, HTML, CSS",
-      "imageSrc": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=800&q=80",
-      "url": "#"
-    }
-  ],
-
-  "services": [
-    {
-      "id": "1",
-      "title": "Java Development",
-      "description": "Developing applications using Java with strong understanding of OOP, Collections, Exception Handling and JDBC."
-    },
-    {
-      "id": "2",
-      "title": "Web Development",
-      "description": "Building responsive web interfaces using HTML, CSS and JavaScript."
-    },
-    {
-      "id": "3",
-      "title": "Backend Development",
-      "description": "Working with Spring Boot, Java and MySQL to build backend applications and database-driven systems."
-    },
-    {
-      "id": "4",
-      "title": "Problem Solving",
-      "description": "Strong debugging and analytical ability with experience in coding platforms and programming competitions."
-    }
-  ],
-
-  "aboutpara": "I am an MCA student at Mepco Schlenk Engineering College with a strong interest in Java Full Stack development. I have knowledge of Java, SQL, HTML, CSS, JavaScript, Spring Boot and MySQL. I enjoy building practical applications, solving programming problems and learning new technologies. I am a quick learner with strong debugging, analytical, communication and teamwork skills.",
-
-  "resume": {
-    "tagline": "👋 I'm Asmitha A, an aspiring Java Full Stack Developer.",
-    "description": "I am currently pursuing Master of Computer Applications (MCA) at Mepco Schlenk Engineering College with a CGPA of 8.75. I have hands-on knowledge of Java, Spring Boot, MySQL, HTML, CSS and JavaScript, and I am looking for opportunities to apply my skills in real-world software development projects.",
-
-    "experiences": [
-      {
-        "id": "1",
-        "dates": "2026",
-        "type": "Achievement",
-        "position": "Third Prize - CodeJam Competition",
-        "bullets": "Won Third Prize in CodeJam Competition at Ramco Institute of Technology."
-      },
-      {
-        "id": "2",
-        "dates": "2026",
-        "type": "Paper Presentation",
-        "position": "Secure Digital Identity using Blockchain",
-        "bullets": "Presented a paper on Secure Digital Identity using Blockchain at SFR College for Women, Sivakasi."
-      },
-      {
-        "id": "3",
-        "dates": "2025",
-        "type": "Competition",
-        "position": "Data Structures Debugging Competition",
-        "bullets": "Participated in Data Structures Debugging Competition at St. Xavier's College, Tirunelveli."
-      }
-    ],
-
-    "education": {
-      "universityName": "Mepco Schlenk Engineering College, Sivakasi",
-      "universityDate": "2025 - 2027",
-      "universityPara": "Master of Computer Applications (MCA) | CGPA: 8.75"
-    },
-
-    "languages": [
-      "Java",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "SQL"
-    ],
-
-    "frameworks": [
-      "Spring Boot"
-    ],
-
-    "others": [
-      "MySQL",
-      "Git",
-      "GitHub",
-      "Eclipse",
-      "VS Code",
-      "MySQL Workbench"
-    ]
-  }
+"name": "Asmitha A",
+"headerTagline": "Software Developer Intern & MCA Student",
+"headerTaglineTwo": "Building robust web applications and backend systems with Java & Spring Boot.",
+"socials": [
+{
+"id": "1",
+"title": "GitHub",
+"link": "https://github.com/asmitha2k4"
+},
+{
+"id": "2",
+"title": "LinkedIn",
+"link": "https://linkedin.com/in/asmitha-2k4"
+},
+{
+"id": "3",
+"title": "Email",
+"link": "mailto:asmithaarul21@gmail.com"
+}
+],
+"projects": [
+{
+"id": "1",
+"title": "Online Cab Booking System",
+"description": "Developed a cab booking platform with ride scheduling, driver allocation, and real-time availability tracking using Java and MySQL.",
+"imageSrc": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&w=800&q=80",
+"url": "https://github.com/asmitha2k4"
+},
+{
+"id": "2",
+"title": "PC Building E-Commerce Website",
+"description": "Built a feature-rich e-commerce site with product filtering, shopping cart features, and an admin dashboard using PHP and MySQL.",
+"imageSrc": "https://images.unsplash.com/photo-1587831990711-23ca6441447b?auto=format&fit=crop&w=800&q=80",
+"url": "https://github.com/asmitha2k4"
+},
+{
+"id": "3",
+"title": "Placement Alert & Eligibility System",
+"description": "Developed a full-stack student profile and job management application featuring automated eligibility verification and alert notifications.",
+"imageSrc": "https://images.unsplash.com/photo-1521791136066-8984c04172c1?auto=format&fit=crop&w=800&q=80",
+"url": "https://github.com/asmitha2k4"
+}
+],
+"services": [
+{
+"id": "1",
+"title": "Backend Development",
+"description": "Designing clean, scalable REST APIs and server-side logic using Core Java and Spring Boot framework."
+},
+{
+"id": "2",
+"title": "Database Management",
+"description": "Structuring complex relational database schemas, query optimization, and efficient management via MySQL."
+},
+{
+"id": "3",
+"title": "Web Engineering",
+"description": "Creating clean, responsive, and intuitive user interfaces using modern HTML, CSS, and JavaScript."
+}
+],
+"aboutpara": "I am a highly motivated Master of Computer Applications (MCA) student looking for a Software Developer Intern position. I love solving data structure problems, building backend systems, and learning new tools quickly. I have strong debugging skills and enjoy working as a team player.",
+"resume": {
+"tagline": "Passionate software developer focusing on core Java architecture and database scaling.",
+"description": "Seeking an internship to apply my technical knowledge and build production-grade software projects.",
+"experiences": [],
+"education": [
+{
+"id": "1",
+"universityName": "Mepco Schlenk Engineering College, Sivakasi",
+"universityDate": "2025 – 2027",
+"universityDegree": "Master of Computer Applications (MCA) | CGPA: 8.75"
+},
+{
+"id": "2",
+"universityName": "Sri Paramakalyani College, Tenkasi",
+"universityDate": "2022 – 2025",
+"universityDegree": "Bachelor of Computer Applications (BCA) | CGPA: 7.48"
+}
+],
+"skills": [
+"Java",
+"Core Java (OOP, Collections, JDBC)",
+"Spring Boot",
+"MySQL",
+"HTML / CSS / JavaScript",
+"Git & GitHub",
+"VS Code / Eclipse"
+]
+}
 }
